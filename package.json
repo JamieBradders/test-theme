@@ -1,0 +1,8 @@
+{
+  "name": "framework-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JamieBradders/test-theme.git",
+  "author": "Jamie Bradley <jamie@stackupdigital.co.uk>",
+  "license": "MIT"
+}
